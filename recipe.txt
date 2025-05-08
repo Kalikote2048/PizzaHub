@@ -3,3 +3,4 @@ Pizza Toppings:
 - Mushrooms
 - Extraa Cheese
 - Pineapple
+- Jalapeños
